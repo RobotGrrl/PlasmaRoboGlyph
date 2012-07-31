@@ -1,0 +1,5 @@
+schematics plasma.sch
+(component-library "./symbols")
+elements-dir rg-symbols
+output-name plasma
+

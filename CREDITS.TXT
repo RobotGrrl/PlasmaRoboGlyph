@@ -1,0 +1,20 @@
+The Plasma RoboGlyph is an exploration in pcb art of sorts!
+
+The plasma image is from Luc Viatour, check it out here:
+http://www.flickr.com/photos/luc_viatour/4326216018/
+http://www.flickr.com/photos/luc_viatour/
+
+StippleGen 2.02 was used to transform the plasma image. We used 8,268 stipples, 0.50 min. dot size, and 10.00 dot size range. StippleGen is made by Evil Mad Science! And you can play with StippleGen yourself here:
+http://evilmadscientist.com/go/stipple2
+
+The charlieplexing aspect was inspired by Open Heart kit by Jimmie Rodgers. It's sophisticated simplicity was really nice, and the Instructable was good to learn about charlieplexing too! (Hopefully I did it right!)
+http://jimmieprodgers.com/kits/openheart/
+http://www.instructables.com/id/Arduino-Charliplexed-Heart-just-in-time-for-Valen/
+
+The first few prototypes of the Plasma RoboGlyph were fabbed at the OSH Park! Their boards are purple and gold, and it's a great service. Check it out here: 
+http://www.oshpark.com
+
+The medium sized OSHW logo on the board is from the gEDA format of logos that Windell Oskay made. You can find all the logos here:
+http://oshwlogo.com/
+
+Finally, credit to the whole maker community for being fun, cool, and helpful with answering questions & learning more!
